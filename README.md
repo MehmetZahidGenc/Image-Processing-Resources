@@ -5,4 +5,4 @@ References:
 Digital Image Processing 3rd ed. - R. Gonzalez, R. Woods
 
 
-Opencv-Python tutorials Documentation (release 1) - Alexander Mordvintev & Abid K
+Opencv-Python tutorials Documentation (release 1) - Alexander Mordvintsev & Abid K
